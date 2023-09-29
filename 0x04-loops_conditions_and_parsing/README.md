@@ -694,9 +694,6 @@ sylvain@ubuntu$ ./103-dig_the-data | head -n 10
     41 167.114.156.198 200
     36 2.1.201.36 304
     36 195.154.172.53 200
-sylvain@ubuntu$
-Repo:
-
 GitHub repository: alx-system_engineering-devops
 Directory: 0x04-loops_conditions_and_parsing
 File: 103-dig_the-data
