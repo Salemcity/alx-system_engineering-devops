@@ -622,11 +622,7 @@ The user vagrant is part of the 1000 gang, lives in /home/vagrant and rides /bin
 The user colord is part of the 112 gang, lives in /var/lib/colord and rides /bin/false. 106's place is protected by the passcode x, more info about the user here: colord colour management daemon,,,
 The user statd is part of the 65534 gang, lives in /var/lib/nfs and rides /bin/false. 107's place is protected by the passcode x, more info about the user here: 
 The user puppet is part of the 114 gang, lives in /var/lib/puppet and rides /bin/false. 108's place is protected by the passcode x, more info about the user here: Puppet configuration management daemon,,,
-The user ubuntu is part of the 1001 gang, lives in /home/ubuntu and rides /bin/bash. 1001's place is protected by the passcode x, more info about the user here: Ubuntu
-sylvain@ubuntu$
-Repo:
-
-GitHub repository: alx-system_engineering-devops
+The user ubuntu is part of the 1001 gang, lives in /home/ubuntu and rides /bin/bash. 1001's place is protected by the passcode x, more info about theGitHub repository: alx-system_engineering-devops
 Directory: 0x04-loops_conditions_and_parsing
 File: 101-tell_the_story_of_passwd
    
