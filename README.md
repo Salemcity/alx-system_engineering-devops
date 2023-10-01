@@ -568,10 +568,6 @@ colord:106:/var/lib/colord
 statd:107:/var/lib/nfs
 sylvain:99:/bin/bash
 puppet:108:/var/lib/puppet
-
-GitHub repository: alx-system_engineering-devops
-Directory: 0x04-loops_conditions_and_parsing
-File: 100-read_and_cut
    
 12. Tell the story of passwd
 #advanced
