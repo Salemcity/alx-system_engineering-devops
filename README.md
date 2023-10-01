@@ -568,9 +568,6 @@ colord:106:/var/lib/colord
 statd:107:/var/lib/nfs
 sylvain:99:/bin/bash
 puppet:108:/var/lib/puppet
-ubuntu:1001:/home/ubuntu
-sylvain@ubuntu$ 
-Repo:
 
 GitHub repository: alx-system_engineering-devops
 Directory: 0x04-loops_conditions_and_parsing
