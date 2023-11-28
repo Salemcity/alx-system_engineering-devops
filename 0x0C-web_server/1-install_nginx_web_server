@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+# Installs nginx server
+
+#Installing nginx
+sudo apt-get -y  update
+sudo apt-get install -y nginx
+
+#ufw allow 'Nginx HTTP'- firewall security
+
+# Configuration
+mkdir /etc/nginx/html
+
+# Creating a sample page
+echo "Hello World!" > /etc/nginx/html/index.html
+
+# Creating Server Block Files
+echo "server {
+        listen 80 default_server;
+	listen [::]:80 default_server;
+
+	root /etc/nginx/html;
+	index index.html index.htm index.nginx-debian.html;
+
+	server_name _;
+}
+" > /etc/nginx/sites-available/default
+
+# Restarting nginx
+nginx -s reload
