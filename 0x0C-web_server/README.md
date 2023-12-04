@@ -296,8 +296,4 @@ Ceci n'est pas une page
 
 sylvain@ubuntu$
 Repo:
-
-GitHub repository: alx-system_engineering-devops
-Directory: 0x0C-web_server
-File: 4-not_found_page_404
    
